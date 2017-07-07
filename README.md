@@ -1,5 +1,5 @@
 #  Magick Spriter
-Batch script that convert images inside folder in a nice sprite sheet using Image Magick
+Batch script that convert images inside folder in a nice sprite sheet using [Image Magick](http://www.imagemagick.org/script/download.php)
 
 
 ![preview](https://github.com/tpkn/magick-spriter/blob/master/preview.png)
